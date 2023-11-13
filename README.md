@@ -1,5 +1,5 @@
-- 👋 Hi, I'm NOOB CODER
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I'm <b>ANYTHING</b>
+- 👀 I’m interested in <code>EVERYTHING</code>
+- 🌱 I’m currently learning <i>NOTHING</i>
+- 💞️ I’m looking to collaborate on <u>LEECH BOTS PROJECT</u>
 - 
